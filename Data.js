@@ -34,4 +34,11 @@ export default [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
   },
+  {
+    id: 6,
+    name: 'Emma Curtius',
+    age: 24,
+    image:
+      'https://cdn.pixabay.com/photo/2016/11/22/06/05/girl-1848454_960_720.jpg',
+  },
 ];
